@@ -1,1 +1,1 @@
-# SD5690_azure_infrastructure
+# SD5690_aws_infrastructure
